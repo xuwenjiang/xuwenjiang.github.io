@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+- {name: '作品', url: ''}
+- {name: '活动', url: 'pages/events.html'}
+- {name: '团队', url: 'pages/about.html'}
+- {name: '联系我们', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -13,9 +13,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: '声音与影像、交互、装置艺术探索团体——19声音Lab '
+  rel-author: 'https://github.com/xuwenjiang/'
+  rel-publisher: 'https://github.com/xuwenjiang/'
 
 #-------------------------------
 # Google Analytics Section
@@ -26,7 +26,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+# google-analytics-ua: 'UA-112060364-3'
 
 #-------------------------------
 # Disqus Section
